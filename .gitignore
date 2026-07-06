@@ -18,3 +18,11 @@ __pycache__/
 # Editor
 .idea/
 .vscode/
+
+# --- GitHub Pages / Jekyll (from remote template) ---
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+/vendor
+Gemfile.lock
